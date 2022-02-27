@@ -1,4 +1,4 @@
-# email-boilerplate
+# Email Boilerplate
 
 
 Here is a starter email template for an accessible, responsive or hybrid email !
