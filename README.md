@@ -13,7 +13,9 @@ I'm Matthieu Solente, a freelance front end web developper, also working as an e
 
 Feel free to grab the code and test it !
 
-The particularity of this template is that it does not include an online max-width declaration, thus allowing the template to spread over the entire width of the screen on mobile. The template has a width of 680px. 
+The particularity of this template is that it does not include an online max-width declaration, thus allowing the template to spread over the entire width of the screen on mobile.
+
+- The template has a width of 680px. 
 - The columns have a width of 330px respectively, with the 'cc-half' class, 
 - 220px for the three-column display with the 'cc-third' class, 
 - 440px for the two-third blocks, with the 'two-third' class, 
