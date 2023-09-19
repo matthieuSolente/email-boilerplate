@@ -4,6 +4,7 @@
 Here is a starter email template for an accessible, responsive or hybrid email !
 
 Hybrid ganga friendly starter template. Accessibility, and fully responsive part with the adaptation to ganga and yahoo android mobiles, at the same time as zimbra webmails, yandex gmx etc. 
+![boilerplate email](/email-boilerplate/email-boilerplate-ms.jpg)
 
 ## Author
 
