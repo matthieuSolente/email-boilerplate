@@ -9,13 +9,13 @@ Hybrid ganga friendly starter template. Accessibility, and fully responsive part
 
 ## Author
 
-I'm Matthieu Solente, a freelance front end web developper, also working as an email developper. I created and participated in the development of nearly a hundred websites, mainly on wordpress. I created a [free blank template](https://themesinfo.com/utopia-wordpress-blog-template-omy) on the wordpress repository years ago as well as some plugins, abandoned since. Now oriented towards the development of emails, I contribute to the community via the @emailSlack channel and the creation of hundreds of components on my [codepen](https://codepen.io/matthieuSolente/collections/).
+Check my [codepen](https://codepen.io/matthieuSolente/collections/) for more email code !
 
 ## Usage
 
 Feel free to grab the code and test it !
 
-The particularity of this template is that it does not include an online max-width declaration, thus allowing the template to spread over the entire width of the screen on mobile.
+The particularity of this template is that it does not include an inline max-width declaration, thus allowing the template to spread over the entire width of the screen on mobile.
 
 - The template has a width of 680px. 
 - The columns have a width of 330px respectively, with the 'cc-half' class, 
